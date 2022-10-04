@@ -11,3 +11,5 @@
 # 5 check status-----------git status
 # 6 add files- -----------git add . (. for all files)
     git add file_name (file_name is the file name of single file)
+# 7 send all change files to staging environment
+   
