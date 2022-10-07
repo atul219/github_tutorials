@@ -33,3 +33,6 @@
 
 #### to switch to developer branch
         git checkout developer1
+
+#### to merge branches
+        git merge developer1 
