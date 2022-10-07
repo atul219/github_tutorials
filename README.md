@@ -27,4 +27,9 @@
         hint -> (link of your repository.git)
 #### 11 push the code to main branch
         git push -u origin main
-   
+
+#### create different branch
+        git branch developer1
+
+#### to switch to developer branch
+        git checkout developer1
