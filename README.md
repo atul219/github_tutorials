@@ -36,3 +36,5 @@
 
 #### to merge branches
         git merge developer1 
+        this should be done from main branch.
+
